@@ -1,0 +1,8 @@
+obj\Release\Notatnik.exe
+obj\Release\Notatnik.pdb
+bin\Release\Notatnik.exe
+bin\Release\Notatnik.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Notatnik.frmNotatnik.resources
+obj\Release\Notatnik.Properties.Resources.resources
+obj\Release\Notatnik.csproj.GenerateResource.Cache
